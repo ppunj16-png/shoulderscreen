@@ -1,0 +1,1 @@
+{"id":"/sw.js","path":"/sw.js","sha":"a5a8db413bbcb4626d938adc3457e7e35d69003c","mime_type":"application/javascript","size":1352,"site_id":"0c197c34-cf48-4d20-a471-b45db8147576","deploy_id":"69d6d0acdfc05365693c9aa6"}
